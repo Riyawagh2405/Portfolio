@@ -224,3 +224,6 @@ body {
 
 }
 
+.owl-carousel{
+  z-index: auto;
+}
